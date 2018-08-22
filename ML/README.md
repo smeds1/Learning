@@ -1,3 +1,1 @@
-#### Machine Learning
-#### Stanford University
-#### Courera Course
+#### Machine Learning - Stanford University - Courera Course
