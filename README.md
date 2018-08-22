@@ -1,6 +1,8 @@
 ### Learning - Repository for MOOCs
 
-FP1 = Fundamentals of Programming Part 1
-FP2 = Fundamentals of Programming Part 2
-IDA = Intro To Data Analysis
-ML = Machine Learning
+* FDA1 = Foundations of Data Analysis - Part 1
+* FDA2 = Foundations of Data Analysis - Part 2
+* IDA = Intro To Data Analysis
+* LTP1 = Learn To Program: The Fundamentals
+* LTP2 = Learn TO Program: Crafting Quality Code
+* ML = Machine Learning
